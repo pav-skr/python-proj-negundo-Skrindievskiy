@@ -1,4 +1,4 @@
 # python-proj-negundo-Skrindievskiy
 Программа, создающая наглядную инфографику, отображающую процесс инвазии биологического вида в Европейской части России (на примере клёна ясенелистного). Выполнена как проект по курсу "Python для анализа данных" студентом 2 курса ФГГТ НИУ ВШЭ Павлом Скриндиевским. Для выполнения разархивировать в отдельную папку и запустить файл "python-proj-negundo-Skrindievskiy.ipnyb" 
 
-A program that creates clear infographics depicting the process of invasive species spread in the European Russia (using the boxelder as an example). Done as the project for the course "Python for data analysis" by Pavel Skrindievskiy second year student of FGGT, HSE university. To start this, unzip to a seperate folder and run the file "python-proj-negundo-Skrindievskiy.ipnyb"
+A program that creates clear infographics depicting the process of invasive species spread in the European Russia (using the boxelder as an example). Done as the project for the course "Python for data analysis" by Pavel Skrindievskiy, second year student of FGGT, HSE university. To start this, unzip to a seperate folder and run the file "python-proj-negundo-Skrindievskiy.ipnyb"
